@@ -2,8 +2,7 @@
 
 I am a Solutions Architect & Startup Entrepreneur in Folsom, CA. Always open to collaborating on startup projects and innovative ideas. Passioned about AI and cloud technologies. Feel free to connect with me here:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![LinkedIn](https://www.linkedin.com/in/yeskin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeskin/)
 
 <!--
 **dimonets/dimonets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
