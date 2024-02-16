@@ -8,7 +8,8 @@ I am a Solutions Architect & Startup Entrepreneur in Folsom, CA. Always open to 
 
 ---
 
-[![AWS Certified Solutions Architect - Professional](https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png|width=100)](https://www.credly.com/badges/c91363a2-6f88-47c1-9863-9bc663c5f259)
+[<img src="[https://your-image-url.type](https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)" alt="AWS Certified Solutions Architect - Professional" width="100" height="100" />](https://www.credly.com/badges/c91363a2-6f88-47c1-9863-9bc663c5f259)
+[![AWS Certified Solutions Architect - Professional](https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/c91363a2-6f88-47c1-9863-9bc663c5f259)
 
 <!--
 **dimonets/dimonets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
